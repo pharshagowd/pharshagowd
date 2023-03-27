@@ -11,8 +11,10 @@ Process oriented Data Analyst / BI Developer with 7+ years’ experience in Bank
 #
 ### From my Tableau Public Profile
 
-####Superstore KPIs
-<br/>
-<img src="https://github.com/pharshagowd/pharshagowd/blob/main/SUPERSTORE KPIs.png" alt = "R" width="1500" height="500" >
-<a href = "https://public.tableau.com/app/profile/pharshavardhan/viz/SuperStoreSalesProfitability_16598067804300/SALESPROFITABILITYDASHBOARD"> Superstore Profitability </a><br/>
+#### Superstore KPIs
+<a href = "https://public.tableau.com/app/profile/pharshavardhan/viz/SuperstoreKPIs_16598812459380/SUPERSTOREKPIs_1">
+<img src="https://github.com/pharshagowd/pharshagowd/blob/main/SUPERSTORE KPIs.jpg" alt = "SUPERSTORE KPIs" width="1500" height="500" > </a>
+#### Superstore Profitability
+<a href = "https://public.tableau.com/app/profile/pharshavardhan/viz/SuperStoreSalesProfitability_16598067804300/SALESPROFITABILITYDASHBOARD"> <img src="https://github.com/pharshagowd/pharshagowd/blob/main/SALES PROFITABILITY.jpg" alt = "SALES PROFITABILITY" width="1500" height="500" > </a>
+
 <a href = "https://public.tableau.com/app/profile/pharshavardhan/viz/CustomerSalesAnalysis_16597712690590/CustomerSalesAnalysis"> Superstore Customer Sales Analysis </a><br/>
