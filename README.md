@@ -6,10 +6,13 @@ Process oriented Data Analyst / BI Developer with 7+ years’ experience in Bank
 ---
 ### Languages and Tools
 
+<img src="https://github.com/pharshagowd/pharshagowd/blob/main/R.png" alt = "R" width="50" height="50" hspace="50" vspace="50"> <img src="https://github.com/pharshagowd/pharshagowd/blob/main/SQL.jpg" width="50" height="50"  hspace="50" vspace="50"> <img src="https://github.com/pharshagowd/pharshagowd/blob/main/Tableau.png" width="50" height="50"  hspace="50" vspace="50"> <img src="https://github.com/pharshagowd/pharshagowd/blob/main/Salesforce CRM Analytics.png" width="50" height="50"  hspace="50" vspace="50"> <img src="https://github.com/pharshagowd/pharshagowd/blob/main/Microsoft Excel.png" width="50" height="50"  hspace="50" vspace="50">
 
 #
 ### From my Tableau Public Profile
 
-<a href = "https://public.tableau.com/app/profile/pharshavardhan/viz/SuperstoreKPIs_16598812459380/SUPERSTOREKPIs_1"> Superstore KPIs </a> <br/>
+####Superstore KPIs
+<br/>
+<img src="https://github.com/pharshagowd/pharshagowd/blob/main/SUPERSTORE KPIs.png" alt = "R" width="1500" height="500" >
 <a href = "https://public.tableau.com/app/profile/pharshavardhan/viz/SuperStoreSalesProfitability_16598067804300/SALESPROFITABILITYDASHBOARD"> Superstore Profitability </a><br/>
 <a href = "https://public.tableau.com/app/profile/pharshavardhan/viz/CustomerSalesAnalysis_16597712690590/CustomerSalesAnalysis"> Superstore Customer Sales Analysis </a><br/>
