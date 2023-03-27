@@ -15,7 +15,7 @@ Process oriented Data Analyst / BI Developer with 7+ years’ experience in Bank
 <br/>
 <a href = "https://public.tableau.com/app/profile/pharshavardhan/viz/SuperstoreKPIs_16598812459380/SUPERSTOREKPIs_1">
 <img src="https://github.com/pharshagowd/pharshagowd/blob/main/SUPERSTORE KPIs.jpg" alt = "SUPERSTORE KPIs" width="1500" height="400" > </a><br/><br/>
-In Superstore KPIs dashboard, the sales KPIs such as total Sales, Profit, Quantity and Discount % is shown in the top with the line charts showing KPIs values over the time. Sales of a particular state can be viewed by selecting the state (clicking the state). Sales and Profit is shown across the Sub-Categories using dual axis. The user is provided with the filters - Order month and Sub-Category.
+In Superstore KPIs dashboard, the sales KPIs such as total Sales, Profit, Quantity and Discount % are shown in the top with the line charts showing KPIs values over the time. Sales of a particular state can be viewed by selecting the state (clicking the state). Sales and Profit is shown across the Sub-Categories using dual axis. The user is provided with the filters - Order month and Sub-Category.
 
 #### Sales Profitability Dashboard
 <br/>
