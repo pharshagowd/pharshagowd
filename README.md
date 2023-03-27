@@ -11,7 +11,13 @@ Process oriented Data Analyst / BI Developer with 7+ years’ experience in Bank
 #
 ### From my Tableau Public Profile
 
-#### Superstore KPIs
+#### Superstore Customer Sales Analysis Dashboard
+<br/>
+<a href = "https://public.tableau.com/app/profile/pharshavardhan/viz/CustomerSalesAnalysis_16597712690590/CustomerSalesAnalysis"> <img src="https://github.com/pharshagowd/pharshagowd/blob/main/CUSTOMER SALES ANALYSIS.jpg" alt = "CUSTOMER SALES ANALYSIS" width="1500" height="400" > </a><br/><br/>
+Superstore Customer Sales Analysis Dashboard shows multiple metrics around revenue and customer segmentation. As a KPI Total Revenue is shown. A line graph is shown for revenue over the months with the density of the line defined by the value of the revenue. Correlation between Quantity and Discount % is shown over Quantity ordered on Y axis and Discount % on X axis. Revenue by state is shown using the map, Revenue by Region is shown for all the four regions using Donut charts. Revenue by Customer Age by creating Age bins and Revenue by Gender for all the item categories is shown. Region, Category fields are given as filters to end users.<br/>
+
+
+#### Superstore KPIs Dashboard
 <br/>
 <a href = "https://public.tableau.com/app/profile/pharshavardhan/viz/SuperstoreKPIs_16598812459380/SUPERSTOREKPIs_1">
 <img src="https://github.com/pharshagowd/pharshagowd/blob/main/SUPERSTORE KPIs.jpg" alt = "SUPERSTORE KPIs" width="1500" height="400" > </a><br/><br/>
@@ -20,7 +26,5 @@ In Superstore KPIs dashboard, the sales KPIs such as total Sales, Profit, Quanti
 #### Sales Profitability Dashboard
 <br/>
 <a href = "https://public.tableau.com/app/profile/pharshavardhan/viz/SuperStoreSalesProfitability_16598067804300/SALESPROFITABILITYDASHBOARD"> <img src="https://github.com/pharshagowd/pharshagowd/blob/main/SALES PROFITABILITY.jpg" alt = "SALES PROFITABILITY" width="1500" height="400" > </a><br/><br/>
+In Sales Profitability Dashboard, Total Sales and Total Profit are shown as KPIs. Profit Ratio is shown by the Region/Category using Donut charts. In the map Sales and Profit Ratio is shown across the states. Profit is shown across Sub-Category. Category, Sub-Category and Region is given as filters.
 
-#### Superstore Customer Sales Analysis
-<br/>
-<a href = "https://public.tableau.com/app/profile/pharshavardhan/viz/CustomerSalesAnalysis_16597712690590/CustomerSalesAnalysis"> <img src="https://github.com/pharshagowd/pharshagowd/blob/main/CUSTOMER SALES ANALYSIS.jpg" alt = "CUSTOMER SALES ANALYSIS" width="1500" height="400" > </a><br/><br/>
