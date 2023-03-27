@@ -1,5 +1,5 @@
 # Harshavardhan
-**`Data Enthusiast (Analytics/Visualization/BI Development)`**
+**`Data Analyst/Data Visualizer`**
 
 Process oriented Data Analyst / BI Developer with 7+ years’ experience in Banking and B2B retail e-commerce. Experienced in interpreting and analyzing data using SQL, Tableau, R and Excel to drive Insights, Analytics, and BI needed to guide decisions.
 
