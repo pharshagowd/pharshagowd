@@ -6,7 +6,7 @@ Process oriented Data Analyst / BI Developer with 7+ years’ experience in Bank
 ---
 ### Languages and Tools
 
-<img src="https://github.com/pharshagowd/pharshagowd/blob/main/R.png" alt = "R" width="40" height="40" hspace="50" vspace="40"> <img src="https://github.com/pharshagowd/pharshagowd/blob/main/SQL.jpg" width="40" height="40" hspace="50" vspace="40"> <img src="https://github.com/pharshagowd/pharshagowd/blob/main/Tableau.png" width="40" height="40" hspace="50" vspace="40"> <img src="https://github.com/pharshagowd/pharshagowd/blob/main/Microsoft Excel.png" width="40" height="40" hspace="50" vspace="40">
+<img src="https://github.com/pharshagowd/pharshagowd/blob/main/SQL.jpg" width="40" height="40" hspace="50" vspace="40"> <img src="https://github.com/pharshagowd/pharshagowd/blob/main/Tableau.png" width="40" height="40" hspace="50" vspace="40"> <img src="https://github.com/pharshagowd/pharshagowd/blob/main/R.png" alt = "R" width="40" height="40" hspace="50" vspace="40"> <img src="https://github.com/pharshagowd/pharshagowd/blob/main/Microsoft Excel.png" width="40" height="40" hspace="50" vspace="40">
 
 #
 ### From my Tableau Public Profile
