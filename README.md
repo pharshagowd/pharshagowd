@@ -1,12 +1,12 @@
 # Harshavardhan
 **`Data Analyst/Data Visualizer`**
 
-Process oriented Data Analyst / BI Developer with 7+ years’ experience in Banking and B2B retail e-commerce. Experienced in interpreting and analyzing data using SQL, Tableau, R and Excel to drive Insights, Analytics, and BI needed to guide decisions.
+Process oriented Data Analyst / BI Developer with 8+ years’ experience in Banking and B2B retail e-commerce. Experienced in interpreting and analyzing data using SQL, Tableau, R and Excel to drive Insights, Analytics, and BI needed to guide decisions.
 
 ---
 ### Languages and Tools
 
-<img src="https://github.com/pharshagowd/pharshagowd/blob/main/SQL.jpg" width="40" height="40" hspace="50" vspace="40"> <img src="https://github.com/pharshagowd/pharshagowd/blob/main/Tableau.png" width="40" height="40" hspace="50" vspace="40"> <img src="https://github.com/pharshagowd/pharshagowd/blob/main/R.png" alt = "R" width="40" height="40" hspace="50" vspace="40"> <img src="https://github.com/pharshagowd/pharshagowd/blob/main/Microsoft Excel.png" width="40" height="40" hspace="50" vspace="40">
+<img src="https://github.com/pharshagowd/pharshagowd/blob/main/R.png" alt = "R" width="40" height="40" hspace="50" vspace="40"> <img src="https://github.com/pharshagowd/pharshagowd/blob/main/SQL.jpg" width="40" height="40" hspace="50" vspace="40"> <img src="https://github.com/pharshagowd/pharshagowd/blob/main/Tableau.png" width="40" height="40" hspace="50" vspace="40"> <img src="https://github.com/pharshagowd/pharshagowd/blob/main/Microsoft Excel.png" width="40" height="40" hspace="50" vspace="40">
 
 #
 ### From my Tableau Public Profile
