@@ -13,6 +13,10 @@ Process oriented Data Analyst / BI Developer with 8+ years’ experience in Bank
 
 #### Superstore Customer Sales Analysis Dashboard
 <br/>
+<script type="module" src="https://my-server/javascripts/api/tableau.embedding.3.latest.min.js"></script>
+<tableau-viz id="tableauViz"       
+  src='https://public.tableau.com/views/my-workbook/my-view'>
+</tableau-viz>
 <a href = "https://public.tableau.com/app/profile/pharshavardhan/viz/CustomerSalesAnalysis_16597712690590/CustomerSalesAnalysis"> <img src="https://github.com/pharshagowd/pharshagowd/blob/main/CUSTOMER SALES ANALYSIS.jpg" alt = "CUSTOMER SALES ANALYSIS" width="1500" height="400" > </a><br/><br/>
 Superstore Customer Sales Analysis Dashboard shows multiple metrics around revenue and customer segmentation. As a KPI Total Revenue is shown. A line graph is shown for revenue over the months with the density of the line defined by the value of the revenue. Correlation between Quantity and Discount % is shown over Quantity ordered on Y axis and Discount % on X axis. Revenue by state is shown using the map, Revenue by Region is shown for all the four regions using Donut charts. Revenue by Customer Age by creating Age bins and Revenue by Gender for all the item categories is shown. Region, Category fields are given as filters to end users.<br/>
 
